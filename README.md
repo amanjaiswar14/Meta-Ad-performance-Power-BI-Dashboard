@@ -122,7 +122,7 @@ Allows deep-dive analysis with **real-time interactivity**.
 
 
 ## 📷 Dashboard Preview
-![image alt]()
+![image alt](https://github.com/amanjaiswar14/Meta-Ad-performance-Power-BI-Dashboard/blob/54e65f8d75d3a3fb4ed563ab0de5eb7e47171a6f/Meta%20Ad%20Performance%20Image.png)
 
 ---
 
